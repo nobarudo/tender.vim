@@ -28,7 +28,7 @@ hi VertSplit guifg=#282828 ctermfg=235 guibg=#282828 ctermbg=235 gui=NONE cterm=
 hi Folded guifg=#666666 ctermfg=242 guibg=#1d1d1d ctermbg=234 gui=NONE cterm=NONE
 hi FoldColumn guifg=#666666 ctermfg=242 guibg=#1d1d1d ctermbg=234 gui=NONE cterm=NONE
 hi IncSearch guifg=#282828 ctermfg=235 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
-hi LineNr guifg=#666666 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LineNr guifg=#666666 ctermfg=244 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi NonText guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#eeeeee ctermfg=255 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
@@ -53,9 +53,9 @@ hi Visual guifg=NONE ctermfg=NONE guibg=#040404 ctermbg=0 gui=NONE cterm=NONE
 hi VisualNOS guifg=NONE ctermfg=NONE guibg=#040404 ctermbg=0 gui=NONE cterm=NONE
 hi WarningMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#282828 ctermfg=235 guibg=#c9d05c ctermbg=185 gui=bold cterm=bold
-hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Comment guifg=#666666 ctermfg=243 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#d3b987 ctermfg=69 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Number guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
