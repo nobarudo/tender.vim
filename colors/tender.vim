@@ -55,7 +55,7 @@ hi WarningMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi WildMenu guifg=#282828 ctermfg=235 guibg=#c9d05c ctermbg=185 gui=bold cterm=bold
 hi Comment guifg=#666666 ctermfg=244 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#d3b987 ctermfg=69 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#d3b987 ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Number guifg=#ffc24b ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
